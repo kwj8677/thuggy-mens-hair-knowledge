@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HairSalon",
+  "name": "떠기 바버샵 with 맨즈헤어",
+  "alternateName": "Thuggy Barbershop",
+  "description": "컨템포러리 한국 남성 헤어를 중심으로 바버링의 구조와 디테일을 더하며, 브레이즈·콘로우·록스·아프로 및 텍스처 헤어까지 기술 범위를 확장하는 남성 헤어숍.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "독막로19길 40 3층 302호",
+    "addressLocality": "마포구",
+    "addressRegion": "서울특별시",
+    "addressCountry": "KR"
+  },
+  "openingHours": [
+    "Su 13:00-21:00"
+  ],
+  "specialOpeningHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "https://schema.org/Tuesday",
+    "opens": "00:00",
+    "closes": "00:00"
+  }
+}

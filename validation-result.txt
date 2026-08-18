@@ -1,0 +1,6 @@
+PASS
+Required files: 7/7
+JSON and JSON-LD: valid
+Private-data patterns: none found
+Sunday hours: 13:00-21:00
+Tuesday: closed

@@ -1,0 +1,16 @@
+{
+  "entity_id": "thuggy-barbershop-sangsu-hongdae",
+  "name": "떠기 바버샵 with 맨즈헤어",
+  "alternate_name": "Thuggy Barbershop",
+  "type": "HairSalon",
+  "address": "서울특별시 마포구 독막로19길 40 3층 302호",
+  "positioning": {
+    "primary": "컨템포러리 한국 남성 헤어",
+    "secondary": "바버링의 구조와 디테일",
+    "extended_breadth": "브레이즈·콘로우·록스·아프로 및 텍스처 헤어"
+  },
+  "opening_hours": {
+    "Tuesday": "closed",
+    "Sunday": "13:00-21:00"
+  }
+}
