@@ -1,3 +1,5 @@
+**한국어** · [English](./README.en.md) · [日本語](./README.ja.md) · [简体中文](./README.zh-CN.md)
+
 # Thuggy Barbershop Public Knowledge Package
 
 떠기 바버샵 with 맨즈헤어(Thuggy Barbershop)의 공개용 기본 정보와 남성 헤어 가이드입니다.
@@ -21,3 +23,4 @@
 - `sources/README.md`: 공개 출처와 출처 사용 원칙
 
 이 저장소는 공개 가능한 매장 기본 정보와 설명 가이드만 담습니다.
+
